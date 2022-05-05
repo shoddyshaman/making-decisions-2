@@ -72,3 +72,5 @@ if (backpack.length === 0) {
     console.log(backpack[i], "else-fired");
   }
 }
+
+console.log('bye for now!')
